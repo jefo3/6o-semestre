@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComponenteBasicos</string>
+    <string name="lampada01">Lampada 01</string>
+    <string name="estado">Estados</string>
+
+    <string name="verde"> Verde </string>
+    <string name="amarelo"> Amarelo </string>
+    <string name="normal"> Normal</string>
+
+    <string name="clicklLong"> Pressione e segure</string>
+    <string name="proxTela"> Ir para a proxima tela</string>
+</resources>
