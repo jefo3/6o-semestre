@@ -9,4 +9,10 @@
 
     <string name="clicklLong"> Pressione e segure</string>
     <string name="proxTela"> Ir para a proxima tela</string>
+
+    <string name="sexoFem"> Femenino </string>
+    <string name="sexoMasc"> Masculino </string>
+
+    <string name="sexo">Escolha o sexo: </string>
+    <string name="enviar">Enviar</string>
 </resources>
