@@ -2,10 +2,11 @@ package com.example.navegaoentretelas.Biblioteca
 
 class Livro {
 
-    internal var titulo: String? = null
-    internal var autor: String? = null
-    internal var qntPaginas: String? = null
-    internal var id: Int = 0
+    var titulo: String? = null
+    var autor: String? = null
+    var qntPaginas: String? = null
+    var id: Int = 0
+    var key: String? = null
 
     constructor()
 
@@ -19,7 +20,6 @@ class Livro {
     override fun toString(): String {
         return "Livro(titulo=$titulo, autor=$autor, qntPaginas=$qntPaginas, id=$id)"
     }
-
 
 
 }
